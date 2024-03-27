@@ -1,0 +1,23 @@
+[2.250s] Invoking command in '/home/user/ros2_ws/src/project_mapping': PYTHONPATH=/home/user/ros2_ws/build/project_mapping/prefix_override:/home/user/ros2_ws/install/project_mapping/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed
+[2.868s] running egg_info
+[2.870s] writing ../../build/project_mapping/project_mapping.egg-info/PKG-INFO
+[2.871s] writing dependency_links to ../../build/project_mapping/project_mapping.egg-info/dependency_links.txt
+[2.871s] writing entry points to ../../build/project_mapping/project_mapping.egg-info/entry_points.txt
+[2.871s] writing requirements to ../../build/project_mapping/project_mapping.egg-info/requires.txt
+[2.871s] writing top-level names to ../../build/project_mapping/project_mapping.egg-info/top_level.txt
+[2.874s] reading manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[2.876s] writing manifest file '../../build/project_mapping/project_mapping.egg-info/SOURCES.txt'
+[2.876s] running build
+[2.876s] running build_py
+[2.876s] running install
+[2.877s] running install_lib
+[2.879s] running install_data
+[2.881s] copying launch/map_loader.launch.py -> /home/user/ros2_ws/install/project_mapping/share/project_mapping/launch
+[2.881s] running install_egg_info
+[2.881s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.881s]   warnings.warn(
+[2.884s] removing '/home/user/ros2_ws/install/project_mapping/lib/python3.10/site-packages/project_mapping-0.0.0-py3.10.egg-info' (and everything under it)
+[2.885s] Copying ../../build/project_mapping/project_mapping.egg-info to /home/user/ros2_ws/install/project_mapping/lib/python3.10/site-packages/project_mapping-0.0.0-py3.10.egg-info
+[2.887s] running install_scripts
+[2.932s] writing list of installed files to '/home/user/ros2_ws/build/project_mapping/install.log'
+[2.985s] Invoked command in '/home/user/ros2_ws/src/project_mapping' returned '0': PYTHONPATH=/home/user/ros2_ws/build/project_mapping/prefix_override:/home/user/ros2_ws/install/project_mapping/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_mapping build --build-base /home/user/ros2_ws/build/project_mapping/build install --record /home/user/ros2_ws/build/project_mapping/install.log --single-version-externally-managed

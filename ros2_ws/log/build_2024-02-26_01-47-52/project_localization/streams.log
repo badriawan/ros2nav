@@ -1,0 +1,39 @@
+[2.862s] Invoking command in '/home/user/ros2_ws/src/project_localization': PYTHONPATH=/home/user/ros2_ws/build/project_localization/prefix_override:/home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_localization build --build-base /home/user/ros2_ws/build/project_localization/build install --record /home/user/ros2_ws/build/project_localization/install.log --single-version-externally-managed
+[3.764s] running egg_info
+[3.766s] creating ../../build/project_localization/project_localization.egg-info
+[3.767s] writing ../../build/project_localization/project_localization.egg-info/PKG-INFO
+[3.767s] writing dependency_links to ../../build/project_localization/project_localization.egg-info/dependency_links.txt
+[3.767s] writing entry points to ../../build/project_localization/project_localization.egg-info/entry_points.txt
+[3.768s] writing requirements to ../../build/project_localization/project_localization.egg-info/requires.txt
+[3.768s] writing top-level names to ../../build/project_localization/project_localization.egg-info/top_level.txt
+[3.768s] writing manifest file '../../build/project_localization/project_localization.egg-info/SOURCES.txt'
+[3.775s] reading manifest file '../../build/project_localization/project_localization.egg-info/SOURCES.txt'
+[3.775s] writing manifest file '../../build/project_localization/project_localization.egg-info/SOURCES.txt'
+[3.775s] running build
+[3.776s] running build_py
+[3.776s] creating /home/user/ros2_ws/build/project_localization/build
+[3.776s] creating /home/user/ros2_ws/build/project_localization/build/lib
+[3.776s] creating /home/user/ros2_ws/build/project_localization/build/lib/project_localization
+[3.776s] copying project_localization/__init__.py -> /home/user/ros2_ws/build/project_localization/build/lib/project_localization
+[3.776s] running install
+[3.776s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[3.777s]   warnings.warn(
+[3.777s] running install_lib
+[3.777s] creating /home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages/project_localization
+[3.777s] copying /home/user/ros2_ws/build/project_localization/build/lib/project_localization/__init__.py -> /home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages/project_localization
+[3.777s] byte-compiling /home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages/project_localization/__init__.py to __init__.cpython-310.pyc
+[3.778s] running install_data
+[3.778s] creating /home/user/ros2_ws/install/project_localization/share/ament_index
+[3.778s] creating /home/user/ros2_ws/install/project_localization/share/ament_index/resource_index
+[3.778s] creating /home/user/ros2_ws/install/project_localization/share/ament_index/resource_index/packages
+[3.778s] copying resource/project_localization -> /home/user/ros2_ws/install/project_localization/share/ament_index/resource_index/packages
+[3.778s] copying package.xml -> /home/user/ros2_ws/install/project_localization/share/project_localization
+[3.779s] creating /home/user/ros2_ws/install/project_localization/share/project_localization/launch
+[3.779s] copying launch/localization.launch.py -> /home/user/ros2_ws/install/project_localization/share/project_localization/launch
+[3.779s] creating /home/user/ros2_ws/install/project_localization/share/project_localization/config
+[3.779s] copying config/amcl_config.yaml -> /home/user/ros2_ws/install/project_localization/share/project_localization/config
+[3.779s] running install_egg_info
+[3.782s] Copying ../../build/project_localization/project_localization.egg-info to /home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages/project_localization-0.0.0-py3.10.egg-info
+[3.783s] running install_scripts
+[3.866s] writing list of installed files to '/home/user/ros2_ws/build/project_localization/install.log'
+[3.918s] Invoked command in '/home/user/ros2_ws/src/project_localization' returned '0': PYTHONPATH=/home/user/ros2_ws/build/project_localization/prefix_override:/home/user/ros2_ws/install/project_localization/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/project_localization build --build-base /home/user/ros2_ws/build/project_localization/build install --record /home/user/ros2_ws/build/project_localization/install.log --single-version-externally-managed

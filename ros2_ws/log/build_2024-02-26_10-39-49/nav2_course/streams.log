@@ -1,0 +1,47 @@
+[0.298s] Invoking command in '/home/user/ros2_ws/build/nav2_course': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/nav2_project:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[5.793s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/nav2_project:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/nav2_course -- -j8 -l8
+[6.417s] Invoking command in '/home/user/ros2_ws/build/nav2_course': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/nav2_project:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
+[6.589s] -- Install configuration: "Release"
+[6.592s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch
+[6.593s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_saver.launch.py
+[6.593s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/localization_launch.py
+[6.594s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/rviz.launch.py
+[6.594s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/map_server_launch.py
+[6.594s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_demo.launch.py
+[6.595s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/tb3_world_navigation_with_tools_launch.py
+[6.595s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/nav2_complete.launch.py
+[6.597s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/launch/navigation2_launch.py
+[6.597s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config
+[6.598s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_house_sim_params.yaml
+[6.598s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery_old.xml
+[6.598s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.yaml
+[6.599s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/turtlebot3_world.pgm
+[6.600s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/default.rviz
+[6.600s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/navigate_w_replanning_and_recovery.xml
+[6.601s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_default_view.rviz
+[6.603s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2.yaml
+[6.603s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/localization_params.yaml
+[6.605s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/config/nav2_params.yaml
+[6.605s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds
+[6.606s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/waffle.model
+[6.606s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/world_only.model
+[6.607s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/worlds/house_waffle.model
+[6.607s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps
+[6.607s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.yaml
+[6.608s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/maps/turtlebot_area.pgm
+[6.608s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/package_run_dependencies/nav2_course
+[6.610s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/parent_prefix_path/nav2_course
+[6.610s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.sh
+[6.611s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/ament_prefix_path.dsv
+[6.613s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.sh
+[6.613s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/environment/path.dsv
+[6.614s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.bash
+[6.614s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.sh
+[6.615s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.zsh
+[6.616s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/local_setup.dsv
+[6.617s] -- Installing: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.dsv
+[6.621s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/ament_index/resource_index/packages/nav2_course
+[6.622s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig.cmake
+[6.689s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/cmake/nav2_courseConfig-version.cmake
+[6.700s] -- Up-to-date: /home/user/ros2_ws/install/nav2_course/share/nav2_course/package.xml
+[6.700s] Invoked command in '/home/user/ros2_ws/build/nav2_course' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/home/user/ros2_ws/install/project_mapping:/home/user/ros2_ws/install/project_localization:/home/user/ros2_ws/install/nav2_project:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/nav2_course
