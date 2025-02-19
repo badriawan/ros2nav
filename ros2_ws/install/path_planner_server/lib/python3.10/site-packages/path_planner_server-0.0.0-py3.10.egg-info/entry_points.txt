@@ -1,5 +1,0 @@
-[console_scripts]
-nav_to_pose = path_planner_server.nav_to_pose_action_client:main
-nav_to_pose2 = path_planner_server.nav_to_pose2:main
-spot_recorder = path_planner_server.spot_recorder:main
-

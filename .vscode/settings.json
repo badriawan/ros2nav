@@ -1,0 +1,19 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/badri/ros2_nav/install/project_mapping/lib/python3.10/site-packages",
+        "/home/badri/ros2_nav/install/project_localization/lib/python3.10/site-packages",
+        "/home/badri/ros2_nav/install/path_planner_server/lib/python3.10/site-packages",
+        "/home/badri/ros2_ws/install/casadi_mpc/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/badri/ros2_nav/install/project_mapping/lib/python3.10/site-packages",
+        "/home/badri/ros2_nav/install/project_localization/lib/python3.10/site-packages",
+        "/home/badri/ros2_nav/install/path_planner_server/lib/python3.10/site-packages",
+        "/home/badri/ros2_ws/install/casadi_mpc/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble"
+}

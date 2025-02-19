@@ -1,3 +1,0 @@
-[console_scripts]
-initial_pose_pub = project_localization.initial_pose_pub:main
-
